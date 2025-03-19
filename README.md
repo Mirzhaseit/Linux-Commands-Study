@@ -13,12 +13,15 @@ Linux commands are executed in the terminal, which is case-sensitive. This guide
 
 The `ls` command is used to display a list of contents in a directory.
 
+
+
 **Syntax:** 
 ```bash
 ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/3eb4b367-ec96-4df0-9df3-374a28458035)
 
 ### 2. `pwd` Command
 
@@ -30,6 +33,8 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/f852f984-fef8-48a0-86dc-170192d310b9)
+
 
 ### 3. `mkdir` Command
 
@@ -41,6 +46,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ec1169e7-e1cb-4eec-b218-d9a25350441f)
+
 
 ### 4. `rmdir` Command
 
@@ -52,6 +59,8 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d9e7626b-4d88-4d74-9750-1d21033ebc91)
+
 
 ### 5. `cd` Command
 
