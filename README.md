@@ -72,6 +72,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b2483375-0f04-4a7f-bca2-b43926fc3c85)
+
 
 ### 6. `cat` Command
 
@@ -83,6 +85,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/01de4ece-06e0-4e42-b6e1-3926ba7ba649)
+
 
 ### 7. `cp` Command
 
@@ -127,6 +131,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ac034898-a71a-4f90-872d-7312e12d873b)
+
 
 ### 11. `rename` Command
 
@@ -149,6 +155,8 @@ head <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/92c6b8df-a5d7-4805-91cf-3aa9dda97793)
+
 
 ### 13. `tail` Command
 
@@ -160,6 +168,8 @@ tail <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/4f34499a-cbb0-47e9-be17-4c70ffd0a2b8)
+
 
 ### 14. `id` Command
 
@@ -171,6 +181,8 @@ id
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/5da94dd8-6a04-44fe-ba60-1d417752fe42)
+
 
 ### 15. `grep` Command
 
